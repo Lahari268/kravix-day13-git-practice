@@ -1,3 +1,0 @@
-This is my first Git practice
-Feature 1 added
-I am making some changes in my first repo
